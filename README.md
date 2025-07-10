@@ -18,8 +18,14 @@ A clean and modern ToDo app built with **React** and powered by the **Context AP
 
 ## 🚀 Live Demo
 
-🔗 [Live App Link](https://harshita-todo.netlify.app)  
-*(Replace with actual link if needed)*
+🔗 [Live App Link](https://todolist-web-app-reactjs.netlify.app/)  
+
+
+---
+
+🌈 Screenshots
+
+![App Screenshot](./src/assets/Screenshot1.png)
 
 ---
 
@@ -112,6 +118,7 @@ Creates an optimized production build in the build/ directory.
 🧑‍💻 Author
 
 Himanshu Singh
+
 GitHub: @harshsinghpujari
 
 
